@@ -5,7 +5,11 @@ main
 dfdgdg
 
 dsfsdfd
+<<<<<<< HEAD
 121
 fgdfgdfgdsfsdfd
 
+=======
+dlll
+>>>>>>> 2353d66 (4)
 3
